@@ -22,18 +22,12 @@ I enjoy working on interesting projects and improving my skills every day.
 ### 🚀 **Stats**
 
 <!-- GitHub Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Thu-master&show_icons=true&hide=prs,issues&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Thu-master&show_icons=true&hide=prs,issues&theme=gruvbox_light">
-  <img alt="Thu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Thu-master&show_icons=true&hide=prs,issues&theme=tokyonight">
-</picture>
+![Thu's GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=Thu-master&show_icons=true&hide=prs,issues&theme=tokyonight#gh-dark-mode-only)
+![Thu's GitHub Stats (Light)](https://github-readme-stats.vercel.app/api?username=Thu-master&show_icons=true&hide=prs,issues&theme=gruvbox_light#gh-light-mode-only)
 
 <!-- Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-master&layout=compact&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-master&layout=compact&theme=gruvbox_light">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-master&layout=compact&theme=tokyonight">
-</picture>
+![Top Langs (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-master&layout=compact&theme=tokyonight#gh-dark-mode-only)
+![Top Langs (Light)](https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-master&layout=compact&theme=gruvbox_light#gh-light-mode-only)
 
 ---
 
