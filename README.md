@@ -21,8 +21,8 @@ I enjoy working on interesting projects and improving my skills every day.
 
 ### 🚀 **Stats**
 
-![Thu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thu-master&show_icons=true&hide=prs,issues&title_color=5A0FC8&text_color=0434B4&icon_color=5A0FC8&bg_color=ffffff&border_color=D9E2EC)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-master&layout=compact&title_color=5A0FC8&text_color=0434B4&bg_color=ffffff&border_color=D9E2EC)
+![Thu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thu-master&show_icons=true&hide=prs,issues&title_color=6C63FF&icon_color=00C6FF&text_color=333333&bg_color=ffffff&border_color=DDDDDD)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-master&layout=compact&title_color=6C63FF&text_color=333333&bg_color=ffffff&border_color=DDDDDD)
 
 ---
 
@@ -30,9 +30,10 @@ I enjoy working on interesting projects and improving my skills every day.
 
 📧 **Email:** [thuvoong@gmail.com](mailto:thuvoong@gmail.com)  
 💻 **GitHub:** [github.com/Thu-master](https://github.com/Thu-master)  
+🌐 **LinkedIn:** [linkedin.com/in/thu-master](https://linkedin.com/in/thu-master)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Thu_Master-blue?logo=linkedin&logoColor=white)](https://vn.linkedin.com/in/thu-voong-thanh-118509308)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-6C63FF?logo=linkedin&logoColor=white&labelColor=00C6FF&style=for-the-badge)](https://linkedin.com/in/thu-master)
 
 ---
 
-⭐ *"Keep learning, keep building, keep improving!"* 🚀
+⭐ *“Keep learning, keep building, keep improving!”* 🚀
